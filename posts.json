@@ -1,0 +1,156 @@
+[
+    {
+        "id" : 2,
+        "slug": "netflix-gaze",
+        "name": "Netflix gaze",
+        "role": "Designer & Developer",
+        "intro": "Data vizualisation platform",
+        "date": "September 2020 to June 2021",
+        "category": [
+            "ux",
+            "development",
+            "test",
+            "un autre",
+            "encore",
+            "ux",
+            "development",
+            "test",
+            "un autre",
+            "encore"
+        ]
+    },
+    {
+        "id" : 1,
+        "slug": "piano-scales",
+        "name": "Piano Scales",
+        "role": "UX Designer",
+        "intro": "Visual guide to better learn the scales for pianists",
+        "date": "March 2019",
+        "category": [
+            "visual",
+            "oui",
+            "encore",
+            "cool"
+        ]
+    },
+    {
+        "id" : 3,
+        "slug": "serfim",
+        "name": "Energy monitoring app",
+        "role": "UX/UI Designer",
+        "intro": "Energy monitoring app",
+        "date": "May to July 2021",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 4,
+        "slug": "foralaytaam",
+        "name": "For Al Aytaam",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 5,
+        "slug": "syntheses-therese",
+        "name": "Les Synthèses de Thérèse identity",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 6,
+        "slug": "freestyle-night",
+        "name": "Freestyle Night",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 7,
+        "slug": "godfather-poster",
+        "name": "The Godfather",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 8,
+        "slug": "thelonious-monk-poster",
+        "name": "Thelonious Monk",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 9,
+        "slug": "chede-lettering",
+        "name": "Chede lettering",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 10,
+        "slug": "redbone-transcription",
+        "name": "Redbone Transcription",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 11,
+        "slug": "trippin-lettering",
+        "name": "Trippin",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    },
+    {
+        "id" : 12,
+        "slug": "studiomercvre-logo",
+        "name": "Studio Mercvre",
+        "role": "UX Designer, Web Developer",
+        "intro": "Website for a nonprofit organization",
+        "date": "January to June 2020",
+        "category": [
+            "ux",
+            "development"
+        ]
+    }
+]

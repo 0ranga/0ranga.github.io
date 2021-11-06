@@ -10,10 +10,17 @@ body,
 	box-sizing: border-box;
 }
 
-a,
 a:visited {
-	color: inherit;
 	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: #D4BF00;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 ul {
@@ -21,6 +28,12 @@ ul {
     padding:0;
     margin:0;
     margin-top: 16px;
+}
+
+ol {
+	padding: 0;
+	margin:0;
+	margin-top:16px;
 }
 
 li {
@@ -82,9 +95,11 @@ h1 {
 	/*styleName: Heading 1;*/
 	font-family: roc-grotesk;
 	font-size: 34px;
+	font-size: 2.125em;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 49px;
+	line-height: 144%;
 	letter-spacing: 0em;
 	text-align: left;
     text-transform: uppercase;
@@ -94,9 +109,11 @@ h2 {
 	/* styleName: Heading 2; */
 	font-family: "New York Large", Arial, Helvetica, sans-serif;
 	font-size: 28px;
+	font-size: 1.75em;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 33px;
+	line-height: 119%;
 	letter-spacing: 0em;
 	text-align: left;
 }
@@ -105,9 +122,11 @@ h3 {
 	/* styleName: Heading 3; */
 	font-family: roc-grotesk;
 	font-size: 22px;
+	font-size: 1.375em;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 32px;
+	line-height: 145%;
 	letter-spacing: 0em;
 	text-align: left;
 }
@@ -116,9 +135,11 @@ h4 {
 	/* //styleName: Heading 4; */
 	font-family: New York Large;
 	font-size: 20px;
+	font-size: 1.25em;
 	font-style: normal;
 	font-weight: 600;
 	line-height: 24px;
+	line-height: 120%;
 	letter-spacing: 0em;
 	text-align: left;
 }
@@ -127,52 +148,75 @@ h5 {
 	/* //styleName: Heading 5; */
 	font-family: New York Large;
 	font-size: 17px;
+	font-size: 1.0625em;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 20px;
+	line-height: 118%;
 	letter-spacing: 0em;
 	text-align: left;
 }
 
-p, ul {
+p, ul, ol {
 	/* //styleName: Body; */
 	font-family: freight-display-pro;
 	font-size: 17px;
+	font-size: 1.0625em;
+	font-size: 1.25em;
 	font-style: normal;
 	font-weight: 300;
 	line-height: 21px;
+	line-height: 124%;
 	letter-spacing: 0em;
 	text-align: left;
+}
+
+.inter-title {
+	font-family: 'roc-grotesk-condensed';
+	font-size: 17px;
+	font-size: 1.0625em;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 22px;
+	line-height: 129%;
+	letter-spacing: 0em;
+	text-align: left;
+	text-transform: uppercase;
 }
 
 .callout {
 	/* //styleName: Callout; */
 	font-family: freight-display-pro;
 	font-size: 16px;
+	font-size: 1em;
 	font-style: italic;
 	font-weight: 700;
 	line-height: 21px;
+	line-height: 131%;
 	letter-spacing: 0em;
 	text-align: left;
 }
 
 .bold {
-    font-family: freight-display-pro;
-	font-size: 17px;
-	font-style: normal;
 	font-weight: 700;
-	line-height: 21px;
-	letter-spacing: 0em;
-	text-align: left;
+}
+
+.strong {
+	font-style: italic;
+	font-weight: 700;
+	margin-top: 64px;
+	margin-bottom: 64px;
 }
 
 .subhead {
 	/* //styleName: Subhead; */
 	font-family: 'roc-grotesk-condensed';
 	font-size: 15px;
+	font-size: 0.9375em;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 22px;
+	line-height: 147%;
 	letter-spacing: 0em;
 	text-align: left;
 }
@@ -181,9 +225,11 @@ p, ul {
 	/* //styleName: Footnote; */
 	font-family: 'roc-grotesk-condensed';
 	font-size: 13px;
+	font-size: 0.8125em;
 	font-style: normal;
 	font-weight: 300;
 	line-height: 19px;
+	line-height: 146%;
 	letter-spacing: 0em;
 	text-align: left;
 }
@@ -192,9 +238,10 @@ p, ul {
 	/* //styleName: Caption 1; */
 	font-family: New York Large;
 	font-size: 12px;
+	font-size: 0.75em;
 	font-style: normal;
 	font-weight: 400;
-	line-height: 14px;
+	line-height: 117%;
 	letter-spacing: 0em;
 	text-align: left;
 }
@@ -203,9 +250,11 @@ p, ul {
 	/* //styleName: Caption 2; */
 	font-family: New York Large;
 	font-size: 11px;
+	font-size: 0.6875em;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 13px;
+	line-height: 118%;
 	letter-spacing: 0em;
 	text-align: left;
 }

@@ -1,67 +1,72 @@
 [
     {
-        "id" : 2,
         "slug": "netflix-gaze",
-        "name": "Netflix gaze",
+        "name": "Netflix Gaze",
         "role": "Designer & Developer",
-        "intro": "Data vizualisation platform",
+        "outline" : "Visualizing and understanding Netlix's recommendation algorithm.",
+        "intro": "This work is the result of the capstone project of my Master's Degree at Pantheon Sorbonne University. It was a collaboration with researchers in Computer Science who developed a Chrome extension that collected data from Netflix users. I had the task with 3 other students to exploit the data collected and find creative ways to process it visually in order to highlight key information.",
         "date": "September 2020 to June 2021",
         "category": [
-            "ux",
             "development",
-            "test",
-            "un autre",
-            "encore",
-            "ux",
-            "development",
-            "test",
-            "un autre",
-            "encore"
+            "design",
+            "data visualization",
+            "academic"
         ]
     },
     {
-        "id" : 1,
         "slug": "piano-scales",
         "name": "Piano Scales",
-        "role": "UX Designer",
-        "intro": "Visual guide to better learn the scales for pianists",
+        "role": "Designer",
+        "outline": "Building a new experience for pianists to learn and remember the scales.",
+        "intro": "In 2017, I started teaching the piano and I noticed a lot of my students were struggling to remember the scales and their finger placements. I also realized I was not the only one to dislike wasting time trying to find the right page for the right scale in a practice book. <br/><br/>A few years later, I decided it was time to change this and create a better learning medium.",
         "date": "March 2019",
         "category": [
-            "visual",
-            "oui",
-            "encore",
-            "cool"
+            "experience design",
+            "graphic design",
+            "education",
+            "personal"
         ]
     },
     {
-        "id" : 3,
         "slug": "serfim",
         "name": "Energy monitoring app",
-        "role": "UX/UI Designer",
-        "intro": "Energy monitoring app",
+        "role": "UX & UI Designer",
+        "intro": "During my internship as an Experience Design Consultant, I had the opportunity to work on the design of an energy consumption application from scratch. With the help of a more experienced consultant, I shaped and facilitated workshops for the conceptualization of the product. I was then responsible for the production of the prototypes and the design of the user interface.",
+        "outline": "",
+        "date": "April to June 2021",
+        "category": [
+            "experience design",
+            "interface design",
+            "professional"
+        ]
+    },
+    {
+        "slug": "biometrics",
+        "name": "Biometrics",
+        "role": "UX Designer",
+        "intro": "A visa service company came to us with a problem: it took too much time for their agents to process the biometrics information of the visa applicants. My job as an Experience Design Consultant intern was to find a solution to that problem. It all started with qualitative research and went all the way through the realization of wireframes.",
         "date": "May to July 2021",
         "category": [
-            "ux",
-            "development"
+            "experience design",
+            "professional"
         ]
     },
     {
-        "id" : 4,
         "slug": "foralaytaam",
         "name": "For Al Aytaam",
-        "role": "UX Designer, Web Developer",
+        "role": "UX Designer & Developer",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
-            "ux",
-            "development"
+            "development",
+            "experience design",
+            "professional"
         ]
     },
     {
-        "id" : 5,
         "slug": "syntheses-therese",
-        "name": "Les Synthèses de Thérèse identity",
-        "role": "UX Designer, Web Developer",
+        "name": "Les Synthèses de Thérèse",
+        "role": "Designer",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -70,10 +75,9 @@
         ]
     },
     {
-        "id" : 6,
         "slug": "freestyle-night",
         "name": "Freestyle Night",
-        "role": "UX Designer, Web Developer",
+        "role": "Audio engineer, filmmaker",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -82,10 +86,9 @@
         ]
     },
     {
-        "id" : 7,
         "slug": "godfather-poster",
         "name": "The Godfather",
-        "role": "UX Designer, Web Developer",
+        "role": "Illustrator",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -94,10 +97,9 @@
         ]
     },
     {
-        "id" : 8,
         "slug": "thelonious-monk-poster",
         "name": "Thelonious Monk",
-        "role": "UX Designer, Web Developer",
+        "role": "Illustrator",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -106,10 +108,9 @@
         ]
     },
     {
-        "id" : 9,
         "slug": "chede-lettering",
         "name": "Chede lettering",
-        "role": "UX Designer, Web Developer",
+        "role": "Designer",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -118,10 +119,9 @@
         ]
     },
     {
-        "id" : 10,
         "slug": "redbone-transcription",
         "name": "Redbone Transcription",
-        "role": "UX Designer, Web Developer",
+        "role": "Transcriptor, arranger",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -130,10 +130,9 @@
         ]
     },
     {
-        "id" : 11,
         "slug": "trippin-lettering",
         "name": "Trippin",
-        "role": "UX Designer, Web Developer",
+        "role": "Designer",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [
@@ -142,10 +141,9 @@
         ]
     },
     {
-        "id" : 12,
         "slug": "studiomercvre-logo",
         "name": "Studio Mercvre",
-        "role": "UX Designer, Web Developer",
+        "role": "Designer",
         "intro": "Website for a nonprofit organization",
         "date": "January to June 2020",
         "category": [

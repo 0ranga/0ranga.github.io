@@ -6,12 +6,16 @@
         "outline" : "Visualizing and understanding Netlix's recommendation algorithm.",
         "intro": "This work is the result of the capstone project of my Master's Degree at Pantheon Sorbonne University. It was a collaboration with researchers in Computer Science who developed a Chrome extension that collected data from Netflix users. I had the task with 3 other students to exploit the data collected and find creative ways to process it visually in order to highlight key information.",
         "date": "September 2020 to June 2021",
-        "category": [
+        "tags": [
             "development",
             "design",
             "data visualization",
             "academic"
-        ]
+        ],
+        "category": [
+            "work"
+        ],
+        "construction": true
     },
     {
         "slug": "piano-scales",
@@ -20,135 +24,185 @@
         "outline": "Building a new experience for pianists to learn and remember the scales.",
         "intro": "In 2017, I started teaching the piano and I noticed a lot of my students were struggling to remember the scales and their finger placements. I also realized I was not the only one to dislike wasting time trying to find the right page for the right scale in a practice book. <br/><br/>A few years later, I decided it was time to change this and create a better learning medium.",
         "date": "March 2019",
-        "category": [
+        "tags": [
             "experience design",
             "graphic design",
             "education",
             "personal"
+        ],
+        "category": [
+            "work"
+        ]
+    },
+    {
+        "slug": "tlsbiometrics",
+        "name": "TLScontact",
+        "role": "UX Designer",
+        "outline": "Boosting the productivity of visa agents with TLSbiometrics.",
+        "intro": "TLScontact, a visa service company, came to us with a problem: it took too much time for their agents to process the biometric information of the visa applicants. <br /><br />I was part of the team that created a new product to answer these needs: TLSbiometrics.",
+        "date": "May to July 2021",
+        "tags": [
+            "experience design",
+            "professional"
+        ],
+        "category": [
+            "work"
         ]
     },
     {
         "slug": "serfim",
-        "name": "Energy monitoring app",
+        "name": "Serfim",
         "role": "UX & UI Designer",
+        "outline": "Helping local authorities save money with an energy monitoring application",
         "intro": "During my internship as an Experience Design Consultant, I had the opportunity to work on the design of an energy consumption application from scratch. With the help of a more experienced consultant, I shaped and facilitated workshops for the conceptualization of the product. I was then responsible for the production of the prototypes and the design of the user interface.",
-        "outline": "",
         "date": "April to June 2021",
-        "category": [
+        "tags": [
             "experience design",
             "interface design",
             "professional"
-        ]
-    },
-    {
-        "slug": "biometrics",
-        "name": "Biometrics",
-        "role": "UX Designer",
-        "intro": "A visa service company came to us with a problem: it took too much time for their agents to process the biometrics information of the visa applicants. My job as an Experience Design Consultant intern was to find a solution to that problem. It all started with qualitative research and went all the way through the realization of wireframes.",
-        "date": "May to July 2021",
+        ],
         "category": [
-            "experience design",
-            "professional"
-        ]
+            "work"
+        ],
+        "construction": true
     },
     {
         "slug": "foralaytaam",
         "name": "For Al Aytaam",
         "role": "UX Designer & Developer",
-        "intro": "Website for a nonprofit organization",
+        "outline": "Bringing more visibility to a nonprofit organization through the realization of a website",
+        "intro": "For Al Aytaam is a nonprofit organization which raises money for orphanages all around the world. They go themselves on location to check with the people there what needs to be done and how much money will be needed. <br/><br/> During the first year of my master's degree at University of Strasbourg, I worked with 4 other students on the realization of their website.",
         "date": "January to June 2020",
-        "category": [
+        "tags": [
             "development",
             "experience design",
             "professional"
+        ],
+        "category": [
+            "work"
         ]
     },
     {
         "slug": "syntheses-therese",
         "name": "Les Synthèses de Thérèse",
         "role": "Designer",
+        "outline": "Logo for an academic project",
         "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "date": "November 2020",
+        "tags": [
+            "branding"
+        ],
         "category": [
-            "ux",
-            "development"
-        ]
+            "other"
+        ],
+        "preview": true
+    },
+    {
+        "slug": "chede-lettering",
+        "name": "Chede lettering",
+        "role": "Designer",
+        "outline": "Lettering for a rap musician",
+        "intro": "Lettering for a rap musician",
+        "date": "August 2020",
+        "tags": [
+            "lettering"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": true
     },
     {
         "slug": "freestyle-night",
         "name": "Freestyle Night",
         "role": "Audio engineer, filmmaker",
-        "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "outline": "Sound engineering and filmmaking of a rap video clip",
+        "intro": "Sound engineering and filmmaking of a rap video clip",
+        "date": "April 2020",
+        "tags": [
+            "directing",
+            "editing",
+            "recording",
+            "mixing",
+            "mastering"
+        ],
         "category": [
-            "ux",
-            "development"
+            "other"
         ]
     },
     {
         "slug": "godfather-poster",
         "name": "The Godfather",
         "role": "Illustrator",
+        "outline": "Digital illustration",
         "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "date": "June 2019",
+        "tags": [
+            "drawing"
+        ],
         "category": [
-            "ux",
-            "development"
-        ]
+            "other"
+        ],
+        "preview": true
     },
     {
         "slug": "thelonious-monk-poster",
         "name": "Thelonious Monk",
         "role": "Illustrator",
+        "outline": "Digital illustration",
         "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "date": "June 2019",
+        "tags": [
+            "drawing"
+        ],
         "category": [
-            "ux",
-            "development"
-        ]
-    },
-    {
-        "slug": "chede-lettering",
-        "name": "Chede lettering",
-        "role": "Designer",
-        "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
-        "category": [
-            "ux",
-            "development"
-        ]
+            "other"
+        ],
+        "preview": true
     },
     {
         "slug": "redbone-transcription",
         "name": "Redbone Transcription",
-        "role": "Transcriptor, arranger",
-        "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "role": "Transcriber, arranger",
+        "outline": "Transcription of Childish Gambino's Redbone for the piano",
+        "intro": "Transcription of Childish Gambino's Redbone for the piano",
+        "date": "Mars 2019",
+        "tags": [
+            "transcribing",
+            "arranging"
+        ],
         "category": [
-            "ux",
-            "development"
+            "other"
         ]
     },
     {
         "slug": "trippin-lettering",
         "name": "Trippin",
         "role": "Designer",
-        "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "outline": "Lettering for a personal project",
+        "intro": "Lettering",
+        "date": "September 2018",
+        "tags": [
+            "lettering"
+        ],
         "category": [
-            "ux",
-            "development"
-        ]
+            "other"
+        ],
+        "preview": true
     },
     {
         "slug": "studiomercvre-logo",
         "name": "Studio Mercvre",
         "role": "Designer",
-        "intro": "Website for a nonprofit organization",
-        "date": "January to June 2020",
+        "outline": "Logo for a personal project",
+        "intro": "Logo for a personal project",
+        "date": "June 2018",
+        "tags": [
+            "branding"
+        ],
         "category": [
-            "ux",
-            "development"
-        ]
+            "other"
+        ],
+        "preview": true
     }
 ]

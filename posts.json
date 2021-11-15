@@ -3,7 +3,7 @@
         "slug": "netflix-gaze",
         "name": "Netflix Gaze",
         "role": "Designer & Developer",
-        "outline" : "Visualizing and understanding Netlix's recommendation algorithm.",
+        "outline" : "Visualizing and understanding Netflix's recommendation algorithm.",
         "intro": "This work is the result of the capstone project of my Master's Degree at Pantheon Sorbonne University. It was a collaboration with researchers in Computer Science who developed a Chrome extension that collected data from Netflix users. I had the task with 3 other students to exploit the data collected and find creative ways to process it visually in order to highlight key information.",
         "date": "September 2020 to June 2021",
         "tags": [

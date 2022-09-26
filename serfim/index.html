@@ -24,17 +24,17 @@
 
 		
 
-		<link rel="modulepreload" href="/app/start-72c57676.js">
-		<link rel="modulepreload" href="/app/chunks/vendor-c28eb3b3.js">
-		<link rel="modulepreload" href="/app/pages/__layout.svelte-639463db.js">
-		<link rel="modulepreload" href="/app/pages/[slug].svelte-423e703b.js">
-		<link rel="modulepreload" href="/app/chunks/posts-cf3c8c36.js">
+		<link rel="modulepreload" href="/app/start-b82afb2c.js">
+		<link rel="modulepreload" href="/app/chunks/vendor-b2f0db4e.js">
+		<link rel="modulepreload" href="/app/pages/__layout.svelte-61b5619a.js">
+		<link rel="modulepreload" href="/app/pages/[slug].svelte-174efceb.js">
+		<link rel="modulepreload" href="/app/chunks/posts-54130940.js">
 		<link rel="stylesheet" href="/app/assets/start-61d1577b.css">
 		<link rel="stylesheet" href="/app/assets/pages/__layout.svelte-17cf31a2.css">
-		<link rel="stylesheet" href="/app/assets/pages/[slug].svelte-d74289bf.css">
+		<link rel="stylesheet" href="/app/assets/pages/[slug].svelte-64eaa895.css">
 
 		<script type="module">
-			import { start } from "/app/start-72c57676.js";
+			import { start } from "/app/start-b82afb2c.js";
 			start({
 				target: document.querySelector("#svelte"),
 				paths: {"base":"","assets":""},
@@ -47,8 +47,8 @@
 					status: 200,
 					error: null,
 					nodes: [
-						import("/app/pages/__layout.svelte-639463db.js"),
-						import("/app/pages/[slug].svelte-423e703b.js")
+						import("/app/pages/__layout.svelte-61b5619a.js"),
+						import("/app/pages/[slug].svelte-174efceb.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
@@ -67,16 +67,18 @@
 <nav class="svelte-h76060"><button class="menu-btn svelte-h76060"><span class="menu-btn-burger svelte-h76060"></span></button></nav>
 
 <div class="menu svelte-h76060 hidden"><a href="/" class="svelte-h76060">Work</a>
-	<a href="/other-projects" class="svelte-h76060">Miscellaneous</a>
-	
+	<a href="/playground" class="svelte-h76060">Playground</a>
+	<a href="/about-me" class="svelte-h76060">About me</a>
 	
 </div>
 <div class="container pt-104 svelte-1y0v222">
 
-<main class="project svelte-h92uf6">
+<main class="project svelte-1e3x5ue">
 			<div class="construction"><p>Waiting...</p></div>
 		
-</main>
+</main></div>
+
+<div style="bottom: 0;" class="container max-width mt-16 mb-48 svelte-1y0v222"><p style="font-family: roc-grotesk; font-size: 1.01em; text-align: center; color: #909090">Website built by me with SvelteKit.</p>
 </div>
 
 
@@ -84,5 +86,6 @@
 			
 		</div>
 		<!-- <script src="modules/vanilla-tilt.js"></script> -->
+		
 	</body>
 </html>

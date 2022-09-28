@@ -1,9 +1,88 @@
 [
     {
+        "slug": "build-your-own-practice",
+        "name": "Build your own Practice",
+        "role": "Designer",
+        "outline": "Cheat sheet to help me create my piano practice routine. Inspired by restaurant menus.",
+        "intro": "Cheat sheet to help me build a practice routine. Inspired by restaurant menus.",
+        "date": "September 2022",
+        "tags": [
+            "graphic design"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": false
+    },
+    {
+        "slug": "paris-summertime",
+        "name": "Paris Summertime",
+        "role": "Designer",
+        "outline": "Lettering project inspired by spending the whole summer in Paris",
+        "intro": "I have always been passionate about typography, calligraphy, lettering... anything related to letter. This is one of the lettering projects I have done.",
+        "date": "August 2022",
+        "tags": [
+            "lettering"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": true,
+        "show": false
+    },
+    {
+        "slug": "london-oh-london",
+        "name": "London Oh London",
+        "role": "Designer",
+        "outline": "Lettering project inspired by a short vacation in London",
+        "intro": "I have always been passionate about typography, calligraphy, lettering... anything related to letter. This is one of the lettering projects I have done.",
+        "date": "August 2022",
+        "tags": [
+            "lettering"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": true,
+        "show": false
+    },
+    {
+        "slug": "energy",
+        "name": "Energy",
+        "role": "Designer",
+        "outline": "Lettering project",
+        "intro": "I have always been passionate about typography, calligraphy, lettering... anything related to letter. This is one of the lettering projects I have done.",
+        "date": "August 2022",
+        "tags": [
+            "lettering"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": true,
+        "show": false
+    },
+    {
+        "slug": "samaritaine",
+        "name": "Samaritaine",
+        "role": "Designer",
+        "outline": "Lettering project inspired by Samaritaine store in Paris",
+        "intro": "I have always been passionate about typography, calligraphy, lettering... anything related to letter. This is one of the lettering projects I have done.",
+        "date": "August 2022",
+        "tags": [
+            "lettering"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": true,
+        "show": false
+    },
+    {
         "slug": "netflix-gaze",
         "name": "Netflix Gaze",
         "role": "Developer & Designer",
-        "outline" : "Visualizing and understanding Netflix's recommendation algorithm.",
+        "outline": "Visualizing and understanding Netflix's recommendation algorithm.",
         "intro": "This work is the result of the capstone project of my Master's Degree in Design at Pantheon Sorbonne University. It was a collaboration with researchers in Computer Science who collected a tremendous amount of data from Netflix users. <br/><br/>I had the task with 3 other students to exploit the data collected and find a creative way to process it visually in order to highlight key information, create meaning, and gather insight.",
         "date": "September 2020 to June 2021",
         "tags": [

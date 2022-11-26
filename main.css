@@ -94,7 +94,7 @@ body {
 
 @font-face {
 	font-family:"freight-display-pro";
-	src:url("FrightDispPro-Book.otf") format("opentype");
+	src:url("/fonts/FrightDispPro-Book.otf") format("opentype");
 	font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
 }
 

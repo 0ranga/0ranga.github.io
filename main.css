@@ -53,6 +53,185 @@ body {
 }
 
 /* -------------------------------------------------------------------------- */
+/*                                    Fonts                                   */
+/* -------------------------------------------------------------------------- */
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-Black.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-BlackItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-Bold.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-BoldItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-Medium.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-MediumItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("FrightDispPro-Book.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-BookItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-Medium.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-MediumItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-SemiBold.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"freight-display-pro";
+	src:url("/fonts/FrightDispPro-SemiBoldItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"roc-grotesk";
+	src:url("/fonts/RocGrotesk-ExtraBold.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"roc-grotesk";
+	src:url("fonts/RocGrotesk-Regular.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"roc-grotesk-condensed";
+	src:url("/fonts/RocGrotesk-Condensed.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"roc-grotesk-condensed";
+	src:url("/fonts/RocGrotesk-CondensedExtraBold.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"roc-grotesk-condensed";
+	src:url("/fonts/RocGrotesk-CondensedLight.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Regular.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-RegularItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Medium.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-MediumItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Semibold.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-SemiboldItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Bold.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-BoldItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Heavy.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-HeavyItalic.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Black.otf") format("opentype");
+	font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+	font-family:"New York Large";
+	src:url("/fonts/NewYorkLarge-Black.otf") format("opentype");
+	font-display:auto;font-style:italic;font-weight:900;font-stretch:normal;
+}
+
+
+/* -------------------------------------------------------------------------- */
 /*                                   Margin                                   */
 /* -------------------------------------------------------------------------- */
 
@@ -99,7 +278,7 @@ body {
 
 h1 {
 	/*styleName: Heading 1;*/
-	font-family: roc-grotesk;
+	font-family: "roc-grotesk";
 	font-size: 34px;
 	font-size: 2.125em;
 	font-style: normal;
@@ -113,7 +292,7 @@ h1 {
 
 h2 {
 	/* styleName: Heading 2; */
-	font-family: "New York Large", Arial, Helvetica, sans-serif;
+	font-family: "roc-grotesk", Arial, Helvetica, sans-serif;
 	font-size: 28px;
 	font-size: 1.75em;
 	font-style: normal;
@@ -126,7 +305,7 @@ h2 {
 
 h3 {
 	/* styleName: Heading 3; */
-	font-family: roc-grotesk;
+	font-family: "roc-grotesk";
 	font-size: 22px;
 	font-size: 1.375em;
 	font-style: normal;
@@ -139,7 +318,7 @@ h3 {
 
 h4 {
 	/* //styleName: Heading 4; */
-	font-family: New York Large;
+	font-family: "New York Large";
 	font-size: 20px;
 	font-size: 1.25em;
 	font-style: normal;
@@ -152,7 +331,7 @@ h4 {
 
 h5 {
 	/* //styleName: Heading 5; */
-	font-family: New York Large;
+	font-family: "New York Large";
 	font-size: 17px;
 	font-size: 1.0625em;
 	font-style: normal;
@@ -165,7 +344,7 @@ h5 {
 
 p, ul, ol {
 	/* //styleName: Body; */
-	font-family: freight-display-pro;
+	font-family: "freight-display-pro";
 	font-size: 17px;
 	font-size: 1.0625em;
 	font-size: 1.25em;
@@ -178,7 +357,7 @@ p, ul, ol {
 }
 
 .inter-title {
-	font-family: 'roc-grotesk-condensed';
+	font-family: "roc-grotesk-condensed";
 	font-size: 17px;
 	font-size: 1.0625em;
 	font-style: normal;
@@ -192,7 +371,7 @@ p, ul, ol {
 
 .callout {
 	/* //styleName: Callout; */
-	font-family: freight-display-pro;
+	font-family: "freight-display-pro";
 	font-size: 16px;
 	font-size: 1em;
 	font-style: italic;
@@ -216,7 +395,7 @@ p, ul, ol {
 
 .subhead {
 	/* //styleName: Subhead; */
-	font-family: 'roc-grotesk-condensed';
+	font-family: "roc-grotesk-condensed";
 	font-size: 15px;
 	font-size: 0.9375em;
 	font-style: normal;
@@ -229,7 +408,7 @@ p, ul, ol {
 
 .footnote {
 	/* //styleName: Footnote; */
-	font-family: 'roc-grotesk-condensed';
+	font-family: "roc-grotesk-condensed";
 	font-size: 13px;
 	font-size: 0.8125em;
 	font-style: normal;
@@ -242,7 +421,7 @@ p, ul, ol {
 
 .caption1 {
 	/* //styleName: Caption 1; */
-	font-family: New York Large;
+	font-family: "New York Large";
 	font-size: 12px;
 	font-size: 0.75em;
 	font-style: normal;
@@ -254,7 +433,7 @@ p, ul, ol {
 
 .caption2 {
 	/* //styleName: Caption 2; */
-	font-family: New York Large;
+	font-family: "New York Large";
 	font-size: 11px;
 	font-size: 0.6875em;
 	font-style: normal;

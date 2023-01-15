@@ -1,5 +1,23 @@
 [
     {
+        "slug": "augmented-resume",
+        "name": "Augmented Resume",
+        "role": "Software Developer",
+        "outline": "An interactive, more representative way to make and share a resume.",
+        "intro": "The Augmented Resume project aims to take advantage of augmented reality (AR) and tangible interactions by offering an interactive and engaging way to showcase oneself using AR cards. These cards are designed to be contextually aware, allowing them to interact with each other in meaningful ways.",
+        "date": "November 2022 to January 2023",
+        "tags": [
+            "augmented reality",
+            "unity",
+            "mobile",
+            "tangible UI"
+        ],
+        "category": [
+            "work"
+        ],
+        "construction": false
+    },
+    {
         "slug": "build-your-own-practice",
         "name": "Build your own Practice",
         "role": "Designer",

@@ -1,5 +1,41 @@
 [
     {
+        "slug": "gdsc",
+        "name": "Google Developers Student Club Paris-Saclay",
+        "role": "Design Director",
+        "outline": "Guided the team in making creative decisions. Created the branding and identity of the club as well as various design assets.",
+        "intro": "Guided the team in making creative decisions. Created the branding and identity of the club as well as various design assets.",
+        "date": "September 2022 to now",
+        "tags": [
+            "art direction",
+            "graphic design"
+        ],
+        "category": [
+            "other"
+        ],
+        "construction": false,
+        "preview": false
+    },
+    {
+        "slug": "portfolio",
+        "name": "My portfolio",
+        "role": "Software Developer & Designer",
+        "outline": "Designed and developed my portfolio from scratch with Figma and SvelteKit.",
+        "intro": "Designed and developed my portfolio from scratch with Figma and SvelteKit.",
+        "date": "Januray to September 2022",
+        "tags": [
+            "ux design",
+            "ui design",
+            "web development",
+            "javascript"
+        ],
+        "category": [
+            "other"
+        ],
+        "construction": false,
+        "preview": false
+    },
+    {
         "slug": "augmented-resume",
         "name": "Augmented Resume",
         "role": "Software Developer",
@@ -95,6 +131,22 @@
         ],
         "preview": true,
         "show": false
+    },
+    {
+        "slug": "timeline",
+        "name": "Human-Computer Interaction Poster",
+        "role": "Designer",
+        "outline": "Timeline about HCI history for a workshop about speculative design called Counterfactual History, under the supervision of James Auger.",
+        "intro": "Timeline poster about HCI history for a workshop about speculative design called Counterfactual History under the supervision of James Auger.",
+        "date": "January 2022",
+        "tags": [
+            "design"
+        ],
+        "category": [
+            "other"
+        ],
+        "preview": false,
+        "show": true
     },
     {
         "slug": "netflix-gaze",

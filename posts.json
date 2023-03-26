@@ -1,5 +1,23 @@
 [
     {
+        "slug": "yugioh-figma",
+        "name": "Yu-Gi-Oh! Card Customizer",
+        "role": "Designer",
+        "outline": "A figma file that lets you design your own Yu-Gi-Oh! cards, fully vectorized.",
+        "intro": "A figma file that lets you design your own Yu-Gi-Oh! cards, fully vectorized.",
+        "date": "March 2023",
+        "tags": [
+            "figma",
+            "graphic design"
+        ],
+        "category": [
+            "other"
+        ],
+        "construction": false,
+        "preview": false,
+        "show": true
+    },
+    {
         "slug": "gdsc",
         "name": "Google Developers Student Club Paris-Saclay",
         "role": "Design Director",
